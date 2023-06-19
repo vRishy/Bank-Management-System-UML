@@ -1,4 +1,4 @@
-# Bank-Management-System---UML
+# Bank-Management-System UML
 
 A Bank Management System is a software application that allows a bank to manage its operations and provide services to its customers.
 This system is designed to streamline the various banking processes and make them more efficient. 
